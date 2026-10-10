@@ -1,0 +1,451 @@
+{
+  "sistema": "ERP-Compras v3",
+  "exportado_en": "2026-04-01T06:00:00-05:00",
+  "total_registros": 37,
+  "productos": [
+    {
+      "sku": "BEB-001",
+      "nombre": "Gaseosa cola 1.5L",
+      "categoria": "Bebidas",
+      "marca": "Premium",
+      "precio_lista": 5200,
+      "activo": true,
+      "proveedor": {
+        "nit": "900123456-1",
+        "razon_social": "Alimentos del Valle S.A."
+      }
+    },
+    {
+      "sku": "BEB-002",
+      "nombre": "Agua sin gas 600ml",
+      "categoria": "Bebidas",
+      "marca": "Marca Propia",
+      "precio_lista": 1900,
+      "activo": true,
+      "proveedor": {
+        "nit": "900123456-1",
+        "razon_social": "Alimentos del Valle S.A."
+      }
+    },
+    {
+      "sku": "BEB-003",
+      "nombre": "Jugo de naranja 1L",
+      "categoria": "Bebidas",
+      "marca": "Económica",
+      "precio_lista": 6800,
+      "activo": true,
+      "proveedor": {
+        "nit": "830444111-9",
+        "razon_social": "Productos de Aseo Nacional S.A."
+      }
+    },
+    {
+      "sku": "BEB-004",
+      "nombre": "Té helado limón 500ml",
+      "categoria": "Bebidas",
+      "marca": "Marca Propia",
+      "precio_lista": "3.400",
+      "activo": true,
+      "proveedor": {
+        "nit": "830444111-9",
+        "razon_social": "Productos de Aseo Nacional S.A."
+      }
+    },
+    {
+      "sku": "BEB-005",
+      "nombre": "Bebida energizante 473ml",
+      "categoria": "Bebidas",
+      "marca": "Andina",
+      "precio_lista": 6900,
+      "activo": true,
+      "proveedor": {
+        "nit": "900123456-1",
+        "razon_social": "Alimentos del Valle S.A."
+      }
+    },
+    {
+      "sku": "BEB-006",
+      "nombre": "Cerveza lata 330ml",
+      "categoria": "Bebidas",
+      "marca": "Premium",
+      "precio_lista": 3600,
+      "activo": true,
+      "proveedor": {
+        "nit": "900123456-1",
+        "razon_social": "Alimentos del Valle S.A."
+      }
+    },
+    {
+      "sku": "LAC-007",
+      "nombre": "Leche entera 1L",
+      "categoria": "Lácteos",
+      "marca": "Económica",
+      "precio_lista": 4300,
+      "activo": true,
+      "proveedor": {
+        "nit": "900123456-1",
+        "razon_social": "Alimentos del Valle S.A."
+      }
+    },
+    {
+      "sku": "LAC-008",
+      "nombre": "Yogur fresa 1L",
+      "categoria": "Lácteos",
+      "marca": "Económica",
+      "precio_lista": 8900,
+      "activo": true,
+      "proveedor": {
+        "nit": "900123456-1",
+        "razon_social": "Alimentos del Valle S.A."
+      }
+    },
+    {
+      "sku": "LAC-009",
+      "nombre": "Queso campesino 500g",
+      "categoria": "Lácteos",
+      "marca": "Marca Propia",
+      "precio_lista": 14500,
+      "activo": true,
+      "proveedor": {
+        "nit": "901555222-7",
+        "razon_social": "Importadora Caribe S.A.S."
+      }
+    },
+    {
+      "sku": "LAC-010",
+      "nombre": "Mantequilla 250g",
+      "categoria": "Lácteos",
+      "marca": "Premium",
+      "precio_lista": 9800,
+      "activo": true,
+      "proveedor": {
+        "nit": "830444111-9",
+        "razon_social": "Productos de Aseo Nacional S.A."
+      }
+    },
+    {
+      "sku": "LAC-011",
+      "nombre": "Kumis 1L",
+      "categoria": "Lácteos",
+      "marca": "Premium",
+      "precio_lista": 7600,
+      "activo": true,
+      "proveedor": {
+        "nit": "901555222-7",
+        "razon_social": "Importadora Caribe S.A.S."
+      }
+    },
+    {
+      "sku": "DES-012",
+      "nombre": "Arroz 1kg",
+      "categoria": "Despensa",
+      "marca": "Andina",
+      "precio_lista": "4.900",
+      "activo": true,
+      "proveedor": {
+        "nit": "830444111-9",
+        "razon_social": "Productos de Aseo Nacional S.A."
+      }
+    },
+    {
+      "sku": "DES-013",
+      "nombre": "Aceite vegetal 1L",
+      "categoria": "Despensa",
+      "marca": "Andina",
+      "precio_lista": 11900,
+      "activo": true,
+      "proveedor": {
+        "nit": "901555222-7",
+        "razon_social": "Importadora Caribe S.A.S."
+      }
+    },
+    {
+      "sku": "DES-014",
+      "nombre": "Pasta spaghetti 500g",
+      "categoria": "Despensa",
+      "marca": "Premium",
+      "precio_lista": 3800,
+      "activo": true,
+      "proveedor": {
+        "nit": "901555222-7",
+        "razon_social": "Importadora Caribe S.A.S."
+      }
+    },
+    {
+      "sku": "DES-015",
+      "nombre": "Frijol bola roja 500g",
+      "categoria": "Despensa",
+      "marca": "Marca Propia",
+      "precio_lista": 7200,
+      "activo": true,
+      "proveedor": {
+        "nit": "830444111-9",
+        "razon_social": "Productos de Aseo Nacional S.A."
+      }
+    },
+    {
+      "sku": "DES-016",
+      "nombre": "Azúcar 1kg",
+      "categoria": "Despensa",
+      "marca": "Andina",
+      "precio_lista": 4600,
+      "activo": true,
+      "proveedor": {
+        "nit": "901555222-7",
+        "razon_social": "Importadora Caribe S.A.S."
+      }
+    },
+    {
+      "sku": "DES-017",
+      "nombre": "Café molido 500g",
+      "categoria": "Despensa",
+      "marca": "Premium",
+      "precio_lista": 18900,
+      "activo": true,
+      "proveedor": {
+        "nit": "901555222-7",
+        "razon_social": "Importadora Caribe S.A.S."
+      }
+    },
+    {
+      "sku": "DES-018",
+      "nombre": "Chocolate de mesa 250g",
+      "categoria": "Despensa",
+      "marca": "Económica",
+      "precio_lista": 6400,
+      "activo": true,
+      "proveedor": {
+        "nit": "830444111-9",
+        "razon_social": "Productos de Aseo Nacional S.A."
+      }
+    },
+    {
+      "sku": "DES-019",
+      "nombre": "Atún en lata 175g",
+      "categoria": "Despensa",
+      "marca": "Económica",
+      "precio_lista": 7900,
+      "activo": true,
+      "proveedor": {
+        "nit": "900123456-1",
+        "razon_social": "Alimentos del Valle S.A."
+      }
+    },
+    {
+      "sku": "SNK-020",
+      "nombre": "Papas fritas 150g",
+      "categoria": "Snacks",
+      "marca": "Andina",
+      "precio_lista": 6200,
+      "activo": true,
+      "proveedor": {
+        "nit": "830444111-9",
+        "razon_social": "Productos de Aseo Nacional S.A."
+      }
+    },
+    {
+      "sku": "SNK-021",
+      "nombre": "Galletas de soda x6",
+      "categoria": "Snacks",
+      "marca": "Económica",
+      "precio_lista": "$ 4.100",
+      "activo": true,
+      "proveedor": {
+        "nit": "830444111-9",
+        "razon_social": "Productos de Aseo Nacional S.A."
+      }
+    },
+    {
+      "sku": "SNK-022",
+      "nombre": "Maní salado 180g",
+      "categoria": "Snacks",
+      "marca": "Premium",
+      "precio_lista": 5300,
+      "activo": true,
+      "proveedor": {
+        "nit": "830444111-9",
+        "razon_social": "Productos de Aseo Nacional S.A."
+      }
+    },
+    {
+      "sku": "SNK-023",
+      "nombre": "Chocolatina 30g",
+      "categoria": "Snacks",
+      "marca": "Económica",
+      "precio_lista": 2300,
+      "activo": true,
+      "proveedor": {
+        "nit": "830444111-9",
+        "razon_social": "Productos de Aseo Nacional S.A."
+      }
+    },
+    {
+      "sku": "SNK-024",
+      "nombre": "Barra de cereal x6",
+      "categoria": "Snacks",
+      "marca": "Marca Propia",
+      "precio_lista": 8700,
+      "activo": true,
+      "proveedor": {
+        "nit": "900123456-1",
+        "razon_social": "Alimentos del Valle S.A."
+      }
+    },
+    {
+      "sku": "ASE-025",
+      "nombre": "Detergente en polvo 2kg",
+      "categoria": "Aseo",
+      "marca": "Andina",
+      "precio_lista": 23900,
+      "activo": true,
+      "proveedor": {
+        "nit": "800987654-3",
+        "razon_social": "Distribuciones La Sabana Ltda."
+      }
+    },
+    {
+      "sku": "ASE-026",
+      "nombre": "Jabón de loza 500g",
+      "categoria": null,
+      "marca": "Económica",
+      "precio_lista": 5600,
+      "activo": true,
+      "proveedor": {
+        "nit": "900123456-1",
+        "razon_social": "Alimentos del Valle S.A."
+      }
+    },
+    {
+      "sku": "ASE-027",
+      "nombre": "Papel higiénico x12",
+      "categoria": "Aseo",
+      "marca": "Marca Propia",
+      "precio_lista": 21500,
+      "activo": true,
+      "proveedor": {
+        "nit": "830444111-9",
+        "razon_social": "Productos de Aseo Nacional S.A."
+      }
+    },
+    {
+      "sku": "ASE-028",
+      "nombre": "Crema dental 100ml",
+      "categoria": "Aseo",
+      "marca": "Marca Propia",
+      "precio_lista": 7300,
+      "activo": true,
+      "proveedor": {
+        "nit": "830444111-9",
+        "razon_social": "Productos de Aseo Nacional S.A."
+      }
+    },
+    {
+      "sku": "ASE-029",
+      "nombre": "Shampoo 400ml",
+      "categoria": "Aseo",
+      "marca": "Económica",
+      "precio_lista": 15900,
+      "activo": true,
+      "proveedor": {
+        "nit": "900123456-1",
+        "razon_social": "Alimentos del Valle S.A."
+      }
+    },
+    {
+      "sku": "ASE-030",
+      "nombre": "Suavizante 1L",
+      "categoria": "Aseo",
+      "marca": "Premium",
+      "precio_lista": 12400,
+      "activo": true,
+      "proveedor": {
+        "nit": "830444111-9",
+        "razon_social": "Productos de Aseo Nacional S.A."
+      }
+    },
+    {
+      "sku": "hog-031",
+      "nombre": "Bombillo LED 9W",
+      "categoria": "Hogar",
+      "marca": "Premium",
+      "precio_lista": 8500,
+      "activo": true,
+      "proveedor": {
+        "nit": "830444111-9",
+        "razon_social": "Productos de Aseo Nacional S.A."
+      }
+    },
+    {
+      "sku": "HOG-032",
+      "nombre": "Pilas AA x4",
+      "categoria": "Hogar",
+      "marca": "Económica",
+      "precio_lista": 11200,
+      "activo": true,
+      "proveedor": {
+        "nit": "830444111-9",
+        "razon_social": "Productos de Aseo Nacional S.A."
+      }
+    },
+    {
+      "sku": "HOG-033",
+      "nombre": "Bolsas de basura x10",
+      "categoria": "Hogar",
+      "marca": "Marca Propia",
+      "precio_lista": 6900,
+      "activo": true,
+      "proveedor": {
+        "nit": "830444111-9",
+        "razon_social": "Productos de Aseo Nacional S.A."
+      }
+    },
+    {
+      "sku": "HOG-034",
+      "nombre": "Esponja multiuso x3",
+      "categoria": "Hogar",
+      "marca": "Premium",
+      "precio_lista": 4800,
+      "activo": true,
+      "proveedor": {
+        "nit": "901555222-7",
+        "razon_social": "Importadora Caribe S.A.S."
+      }
+    },
+    {
+      "sku": "CON-035",
+      "nombre": "Nuggets de pollo 500g",
+      "categoria": "Congelados",
+      "marca": "Andina",
+      "precio_lista": 16900,
+      "activo": true,
+      "proveedor": {
+        "nit": "900123456-1",
+        "razon_social": "Alimentos del Valle S.A."
+      }
+    },
+    {
+      "sku": "CON-036",
+      "nombre": "Helado vainilla 1L",
+      "categoria": "Congelados",
+      "marca": "Económica",
+      "precio_lista": 15400,
+      "activo": true,
+      "proveedor": {
+        "nit": "800987654-3",
+        "razon_social": "Distribuciones La Sabana Ltda."
+      }
+    },
+    {
+      "sku": "CON-037",
+      "nombre": "Papas a la francesa 1kg",
+      "categoria": "Congelados",
+      "marca": "Premium",
+      "precio_lista": 12800,
+      "activo": false,
+      "proveedor": {
+        "nit": "830444111-9",
+        "razon_social": "Productos de Aseo Nacional S.A."
+      }
+    }
+  ]
+}

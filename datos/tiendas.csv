@@ -1,0 +1,13 @@
+cod_tienda;nombre_tienda;ciudad;departamento;administrador;fecha_apertura;activa
+T01;Andina Chapinero;Bogotá;Cundinamarca;Laura Méndez;2018-02-10;S
+T02;Andina Suba;BOGOTA;Cundinamarca;Andrés Rojas;2019-07-01;S
+T03;Andina El Poblado;Medellín;Antioquia;Camila Restrepo;2018-11-20;S
+T04;Andina Laureles;medellin ;Antioquia;Julián Ospina;2020-03-05;S
+T05;Andina Granada;Cali;Valle del Cauca;Sofía Caicedo;2019-01-15;S
+T06;Andina Chipichape;Cali;Valle del Cauca;Mateo Lozano;2021-06-12;S
+T07;Andina El Prado;Barranquilla;Atlántico;Valentina Char;2020-09-01;S
+T08;Andina Cabecera;Bucaramanga;Santander;Sebastián Prada;2021-02-22;S
+T09;Andina Centro Histórico;Cartagena;Bolívar;Daniela Pérez;2022-04-08;S
+T10;Andina Circunvalar;Pereira;Risaralda;Tomás Arango;2022-10-17;S
+T11;Andina Kennedy;Bogotá D.C.;Cundinamarca;Paula Gómez;2019-05-30;N
+T05;Andina Granada;Cali ;Valle del Cauca;Sofía Caicedo;2019-01-15;S

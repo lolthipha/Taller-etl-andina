@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: andina_dw
+    environment:
+      POSTGRES_USER: andina
+      POSTGRES_PASSWORD: andina
+      POSTGRES_DB: andina_dw
+    ports:
+      - "5432:5432"
+    volumes:
+      - andina_data:/var/lib/postgresql/data
+
+volumes:
+  andina_data:
